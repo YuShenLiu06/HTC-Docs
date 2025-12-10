@@ -67,7 +67,3 @@ description: 欢迎页
 
 * [Xmind思维导图](https://xmind.cn/)
 * [draw.io](https://app.diagrams.net/)
-
-***
-
-_最后更新时间: 2025年12月7日_
